@@ -1,0 +1,5 @@
+df/
+dataset/
+.vscode/
+*.ipynb
+*.zip
